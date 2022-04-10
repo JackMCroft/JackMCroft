@@ -1,4 +1,4 @@
-- Hi, I’m @JackMCroft
+- Hi, I’m @ j.m.croft @ hotmail
 - I am interested in cloud computing and AI
 - I am AWS Certified Solutions Architect
 
