@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JackMCroft
-- 👀 I’m interested in cloud computing and AI
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Life
-- 📫 I am not reachable now
+- Hi, I’m @JackMCroft
+- I am interested in cloud computing and AI
+- I am AWS Certified Solutions Architect
 
 <!---
 JackMCroft/JackMCroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
